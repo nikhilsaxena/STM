@@ -1,0 +1,63 @@
+What is the capital of India ?
+Mumbai
+Delhi
+Kolkata
+Chennai
+Delhi
+20
+What is the capital of  U.P ?
+Lucknow
+Allahabad
+Kanpur
+Agra
+Lucknow
+30
+What is the capital of Andhra Pradesh ?
+Hyderabad
+Delhi
+Kolkata
+Chennai
+Hyderabad
+20
+Which is fastest ?
+RAM
+ROM
+External Cache
+Register
+Register
+10
+"++i" means what ?
+Pre Increment
+Post Increment
+Increment Twice
+None of These
+Pre Increment
+10
+Which is the biggest city of U.P. ?
+Lucknow
+Kanpur
+Allahabad
+Agra
+Kanpur
+15
+Who is known as the father of JAVA ?
+Dennis Ritchie
+James Gosling
+Ryan Gosling
+Larry Page
+James Gosling
+20
+What is the name of compiler used for JAVA ?
+GCC
+Borland
+JIT
+DevC
+JIT
+20
+Android named after
+Andy Rubin
+Andrew Ross
+Larry Page
+Mark Zuckerburg
+Andy Rubin
+10

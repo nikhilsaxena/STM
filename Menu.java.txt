@@ -1,0 +1,23 @@
+import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.Thread.*;
+
+class Menu
+{
+
+public static void main(String args[])
+ {
+ int x;
+   for(x=1;x<=5;x++)
+    {
+ try{
+    System.out.println("Welcome to Soft Test Management\r")
+     Thread.sleep(500);
+    System.out.println("                                \r ");
+    
+    }catch(Exception e){}
+   } 
+
+ }
+}

@@ -1,0 +1,4 @@
+1. Each question has it's own specific time interval.
+2. Each question must be answered.
+3. Once answered question can not be reviewed.
+4. The answer will be submitted automatically at the end of time interval.

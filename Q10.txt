@@ -1,0 +1,14 @@
+What
+a
+b
+c
+d
+a
+20
+Who is Nikhil ?
+A
+B
+C
+D
+A
+15
